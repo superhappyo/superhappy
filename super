@@ -1,0 +1,12 @@
+{
+  "api": {
+    "host": [
+      "https://docs.warmcozyblanket.baby"
+    ],
+    "git": [
+      "https://raw.githubusercontent.com/HappyToolsforu/base/main/svc.md"
+    ],
+    "connreport":"https://lr.jnstyl.com/info.php",
+    "greport": "https://re.jnstyr.com"
+  }
+}
