@@ -1,6 +1,8 @@
 {
   "api": {
-    "host": "https://docs.warmcozyblanket.baby",
+    "host": [
+      "https://docs.warmcozyblanket.baby"
+    ],
     "git": [
       "https://raw.githubusercontent.com/superhappyo/superhappy/refs/heads/main/super"
     ],
@@ -8,3 +10,4 @@
     "greport": "https://re.jnstyr.com"
   }
 }
+
